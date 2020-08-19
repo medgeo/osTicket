@@ -18,6 +18,9 @@
 **********************************************************************/
 require 'client.inc.php';
 
+
+/**test */
+
 $inc = 'register.inc.php';
 
 $errors = array();
